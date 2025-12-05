@@ -8,6 +8,8 @@
 에브리타임과 같은 대학 커뮤니티 플랫폼을 참고하여 개발한 게시판 웹 애플리케이션입니다.  
 Spring Boot와 JSP, JQUERY를 활용하여 회원 관리, 게시글 관리 등의 기본적인 CRUD 기능을 구현했습니다.
 
+---
+
 ## 기술 스택
 
 ### Backend
@@ -32,6 +34,8 @@ Spring Boot와 JSP, JQUERY를 활용하여 회원 관리, 게시글 관리 등�
 - **Embedded Tomcat** - 내장 서버
 - **Tomcat Jasper** - JSP 엔진
 
+---
+
 ## 주요 기능
 
 ### 회원 관리
@@ -51,6 +55,8 @@ Spring Boot와 JSP, JQUERY를 활용하여 회원 관리, 게시글 관리 등�
 - 로그인 사용자만 게시판 접근 가능
 - 본인이 작성한 글만 수정/삭제 가능
 - 본인 정보만 수정/삭제 가능
+
+---
 
 ## 프로젝트 구조
 
@@ -80,6 +86,8 @@ src/main/java/com/springboot/springmyboard/
 └── SpringmyboardApplication.java     # 메인 애플리케이션
 ```
 
+---
+
 ## 데이터베이스 구조
 
 ### member 테이블
@@ -107,6 +115,8 @@ CREATE TABLE boardvo (
     FOREIGN KEY (fkmember) REFERENCES member(pkid)
 );
 ```
+
+---
 
 ## 실행 방법
 
@@ -150,6 +160,8 @@ mvn spring-boot:run
 ### 5. 접속
 브라우저에서 `http://localhost:8080/main` 접속
 
+---
+
 ## 주요 화면
 
 ### 메인 페이지
@@ -168,6 +180,8 @@ mvn spring-boot:run
 - 제목, 내용 입력
 - 이미지 파일 업로드
 - 본인 글만 수정/삭제 가능
+
+---
 
 ## 주요 구현 내용
 
@@ -191,7 +205,9 @@ mvn spring-boot:run
 - 이전/다음 버튼 표시
 - 검색 조건 유지
 
-## 📝 API 엔드포인트
+---
+
+## API 엔드포인트
 
 ### 회원 관련
 - `GET /member/login` - 로그인 폼
