@@ -3,7 +3,8 @@
 대학생들을 위한 자유게시판 웹 애플리케이션입니다.  
 회원가입 후 글 작성, 이미지 업로드 등 다양한 기능을 통해 학생들이 자유롭게 소통할 수 있도록 CRUD 기능을 구현하였습니다.
 
-<img width="367" height="671" alt="Image" src="https://github.com/user-attachments/assets/333f8793-d075-49ec-b967-b09c42667808" />
+<img src="https://github.com/user-attachments/assets/9a010af5-32bd-470d-9229-3e2ce0d05bd9" height="500" />
+<img src="https://github.com/user-attachments/assets/907d631c-6424-4857-af48-05f3490a63c6" height="500" />
 
 ## 프로젝트 소개
 
