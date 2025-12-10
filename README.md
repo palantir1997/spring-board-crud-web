@@ -6,7 +6,6 @@
 <br>
 
 <img width="367" height="671" alt="Image" src="https://github.com/user-attachments/assets/333f8793-d075-49ec-b967-b09c42667808" />
-<img width="373" height="666" alt="Image" src="https://github.com/user-attachments/assets/bd222b4e-e8d9-4ded-ac23-3f6be69d6805" />
 
 ## 프로젝트 소개
 
