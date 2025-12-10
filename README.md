@@ -3,10 +3,8 @@
 대학생들을 위한 자유게시판 웹 애플리케이션입니다.  
 회원가입 후 글 작성, 이미지 업로드 등 다양한 기능을 통해 학생들이 자유롭게 소통할 수 있도록 CRUD 기능을 구현하였습니다.
 
-<br>
-
 <img width="367" height="671" alt="Image" src="https://github.com/user-attachments/assets/333f8793-d075-49ec-b967-b09c42667808" />
-<img width="491" height="719" alt="Image" src="https://github.com/user-attachments/assets/27dcf481-90c1-4660-9faf-4a5519474763" />
+
 ## 프로젝트 소개
 
 에브리타임과 같은 대학 커뮤니티 플랫폼을 참고하여 개발한 게시판 웹 애플리케이션입니다.  
