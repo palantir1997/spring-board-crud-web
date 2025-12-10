@@ -1,5 +1,11 @@
 # 소통 자유게시판
 
+<img width="367" height="671" alt="Image" src="https://github.com/user-attachments/assets/333f8793-d075-49ec-b967-b09c42667808" />
+<img width="373" height="666" alt="Image" src="https://github.com/user-attachments/assets/bd222b4e-e8d9-4ded-ac23-3f6be69d6805" />
+<img width="524" height="775" alt="Image" src="https://github.com/user-attachments/assets/c223bb4a-2f31-4f90-a97b-28f6db92a8f2" />
+<img width="524" height="782" alt="Image" src="https://github.com/user-attachments/assets/40d05abf-496a-483e-9a1b-886a0d9d5fc8" />
+<img width="491" height="719" alt="Image" src="https://github.com/user-attachments/assets/27dcf481-90c1-4660-9faf-4a5519474763" />
+
 대학생들을 위한 자유게시판 웹 애플리케이션입니다.  
 회원가입 후 글 작성, 이미지 업로드 등 다양한 기능을 통해 학생들이 자유롭게 소통할 수 있도록 CRUD 기능을 구현하였습니다.
 
